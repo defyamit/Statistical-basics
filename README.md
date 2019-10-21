@@ -1,2 +1,2 @@
 # Statistical-basics
-Hypthesis testing 
+Hypthesis testing project
